@@ -27,3 +27,16 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+# Intent 
+
+I recently came across the [Datasette](https://docs.datasette.io/en/stable/) library - that aims to simplify the storing and publishing of data. This is something that I have wanted to do - with the eventual aim of building some data apps/products that pull in the data for the publish data and also serving that data out to a wider community. 
+
+
+
+
+Why choose SQLIte TODO
+
+I have already set up an SQLIte **cso** that I will throw all cso related data. Lets connect to it, clean the column names and write the data to it. You might have to
+
+
