@@ -38,5 +38,6 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-public/ # if using Netlify
+# if using Netiffly
+public/
 blogdown/
