@@ -12,7 +12,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/ibriancarter
+  url: https://twitter.com/iboboburo
 publishDate: "2015-05-05"
 summary: Exploring patterns of language use of MDMA users.
 tags: [python]

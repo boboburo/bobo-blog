@@ -12,7 +12,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/ibriancarter
+  url: https://twitter.com/iboboburo
 publishDate: "2016-11-05"
 summary: Highlighting different NLP POS taggers
 tags: [python,nltk,spacy]

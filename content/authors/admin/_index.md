@@ -27,7 +27,7 @@ social:
   link: mailto:brianthomascarter@gmail.com
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ibriancarter
+  link: https://twitter.com/iboboburo
 - icon: github
   icon_pack: fab
   link: https://github.com/boboburo
