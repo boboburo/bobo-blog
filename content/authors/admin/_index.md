@@ -43,17 +43,17 @@ user_groups:
  - []
 ---
 
-I have had the joy of working in the emerging area of Machine Learning for a number of different companies and teams for the last decade; mostly recenlty leading teams in ML delivery in areas such as ASR, NLP and Forecasting. 
+Thanks for landing on my blog. I have been working in Machine Learning/Data Science for the best part of a decade; both as an individual contributor and more recenlty leading teams in ML delivery in areas such as ASR, NLP and Forecasting. 
 
 <!-- I am currently a Director of Machine Learning for the Advanced Technology Collaboration in Optum Ireland. Mostly recently I have been working as Software Delivery Lead for ML projects in areas such as ASR, NLP and Forecasting. Previously I have worked as a hands on ML Engineer.-->
 
-I love working with data, understanding it and  visualizing it. I am also very driven by building end-to-end ML projects and getting value from ML through good project definition in combination with early and frequent delivery. I work with R and Python mainly and a number of development environments. 
+I enjoy working with data, understanding it and  visualizing it. I am also very driven by building end-to-end ML projects and getting value from ML through good project definition in combination with early and frequent delivery. I work with R and Python mainly and a number of development environments. 
 
-This blog reflects my passions and learnings around ML and is also a placeholder for my learnings. Hopeully you might find some of the posts interesting and/or useful.  All views are my own. 
+This blog reflects my passions and learning around ML and is also a placeholder for me to jot down process and try out new tools. Hopefully you might find some of the posts interesting and/or useful. 
 
 When I am not delving into some ML pursuit, I enjoy cooking, traveling (when possible), weight lifting, hiking and reading. 
 
-Thanks for landing here and have a good day. *Brian* 
+Have a good day and enjoy browsing. *Brian* 
 
 
 
